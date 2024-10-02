@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "title": "Чехлы",
+      "products": [
+        {
+          "id": "1",
+          "imageUrl": "/assets/phone01.png",
+          "title": "Стеклянные",
+          "alt": "phone",
+          "type": "category",
+          "price": 100,
+          "likeable": false
+        },
+        {
+          "id": "2",
+          "imageUrl": "/assets/phone02.png",
+          "title": "Силиконовые",
+          "alt": "phone",
+          "type": "category",
+          "price": 100,
+          "likeable": false
+        },
+        {
+          "id": "3",
+          "imageUrl": "/assets/phone03.png",
+          "title": "Кожаные",
+          "alt": "phone",
+          "type": "category",
+          "price": 100,
+          "likeable": false
+        }
+      ]
+    },
+    {
+      "title": "Наушники",
+      "products": [
+        {
+          "id": "4",
+          "imageUrl": "/assets/earpods1.png",
+          "title": "Apple EarPods",
+          "alt": "Apple EarPods",
+          "type": "product",
+          "price": 1999
+        },
+        {
+          "id": "5",
+          "imageUrl": "/assets/earpods2.png",
+          "title": "Apple EarPods",
+          "alt": "Apple EarPods",
+          "type": "product",
+          "price": 1999
+        },
+        {
+          "id": "6",
+          "imageUrl": "/assets/earpods3.png",
+          "title": "Apple EarPods",
+          "alt": "Apple EarPods",
+          "type": "product",
+          "price": 2999
+        }
+      ]
+    },
+    {
+      "title": "Беспроводные наушники",
+      "products": [
+        {
+          "id": "7",
+          "imageUrl": "/assets/airpods1.png",
+          "title": "Apple EarPods",
+          "alt": "Apple EarPods",
+          "type": "product",
+          "price": 12990
+        },
+        {
+          "id": "8",
+          "imageUrl": "/assets/airpods2.png",
+          "title": "Apple EarPods",
+          "alt": "Apple EarPods",
+          "type": "product",
+          "price": 22999
+        },
+        {
+          "id": "9",
+          "imageUrl": "/assets/airpods3.png",
+          "title": "Apple EarPods",
+          "alt": "Apple EarPods",
+          "type": "product",
+          "price": 10000
+        }
+      ]
+    }
+  ]
+}
